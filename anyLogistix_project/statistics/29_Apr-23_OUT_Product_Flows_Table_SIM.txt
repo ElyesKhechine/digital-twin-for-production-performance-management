@@ -1,0 +1,1 @@
+Statistics;Object;Product;Destination;Period;Amount;

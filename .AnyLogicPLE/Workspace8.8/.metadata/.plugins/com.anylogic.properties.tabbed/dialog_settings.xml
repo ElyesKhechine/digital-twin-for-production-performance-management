@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.anylogic.properties.sections.expandable.NameSection">
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.GeneralSection">
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.AdditionalGeneralSection">
+	</section>
+	<section name="Agent actions|AgentActionsSection">
+		<item key="Collapsed" value="false"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+		</section>
+	</section>
+	<section name="Agent in flowcharts|AdvancedActionsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+		</section>
+	</section>
+	<section name="Dimensions and movement|DimensionsAndMovementSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+		</section>
+	</section>
+	<section name="Space and network|SpaceNetworkSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+		</section>
+	</section>
+	<section name="Advanced Java|ProgrammingSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="true"/>
+		</section>
+	</section>
+	<section name="Advanced|AdvancedSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Plot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Object3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Conveyor" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Camera3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Turntable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.variables.PlainVariable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.TransferTable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.controls.Window3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.Function" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Text" value="false"/>
+		</section>
+	</section>
+	<section name="Description|DescriptionSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="true"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.statechart.State" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Plot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Object3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Conveyor" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Camera3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Turntable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.TransferTable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Text" value="false"/>
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.EoMainSection">
+	</section>
+	<section name="Initial location|InitialLocationSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Statistics|StatisticsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Position|PositionAndSizeSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Object3D" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Camera3D" value="false"/>
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.agentLink.AgentLinkGeneralSectionPart2">
+	</section>
+	<section name="Communication|CommunicationSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Animation|AnimationSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.old.ParametersRenderingSection">
+	</section>
+	<section name="Agent|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Advanced|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Actions|ParametersRenderingSection">
+		<item key="Collapsed" value="false"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.LibraryElementController" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Dependencies|ModelDependenciesSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="System Dynamics solver|NumericalMethodsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Model time|ModelTimeSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.experiment.simulation.SimulationExperiment" value="false"/>
+		</section>
+	</section>
+	<section name="Randomness|RandomnessSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.experiment.simulation.SimulationExperiment" value="false"/>
+		</section>
+	</section>
+	<section name="Window|WindowSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.experiment.simulation.SimulationExperiment" value="false"/>
+		</section>
+	</section>
+	<section name="Java actions|JavaActionsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.experiment.simulation.SimulationExperiment" value="false"/>
+		</section>
+	</section>
+	<section name="Log|LogSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Text|TextSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Text" value="false"/>
+		</section>
+	</section>
+	<section name="Appearance|ShapeLineColorSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Conveyor" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Turntable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.TransferTable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Text" value="false"/>
+		</section>
+	</section>
+	<section name="Position and size|PositionAndSizeSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Conveyor" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Turntable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.TransferTable" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.RackStorage" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeColorChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Text" value="false"/>
+		</section>
+	</section>
+	<section name="Data|DataSection">
+		<item key="Collapsed" value="false"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Data update|AnalysisDataUpdatingSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Plot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="true"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Histogram" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeColorChart" value="true"/>
+		</section>
+	</section>
+	<section name="Scale|ScaleSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Plot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+		</section>
+	</section>
+	<section name="Appearance|AppearanceSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Histogram" value="true"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeColorChart" value="false"/>
+		</section>
+	</section>
+	<section name="Legend|LegendSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+		</section>
+	</section>
+	<section name="Chart area|ChartAreaSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.Plot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimePlot" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeStackChart" value="false"/>
+			<item key="com.anylogic.objectmodel.elements.graphical.analysis.charts.TimeColorChart" value="false"/>
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.AnalysisDataUpdatingSection">
+	</section>
+	<section name="Priorities|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.LibraryElementController" value="false"/>
+		</section>
+	</section>
+	<section name="Points|PointsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.markup.material.Conveyor" value="false"/>
+		</section>
+	</section>
+	<section name="Colors|Object3dColorsSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.shapes.Object3D" value="false"/>
+		</section>
+	</section>
+	<section name="Rack|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Scene|SceneSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.controls.Window3D" value="false"/>
+		</section>
+	</section>
+	<section name="Animation|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.EmbeddedObject" value="false"/>
+		</section>
+	</section>
+	<section name="Priorities / preemption|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Color mapping|ColorMappingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Data|Histogram2dSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Data|HistogramSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Arguments|ArgumentsSection">
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.Function" value="false"/>
+		</section>
+	</section>
+	<section name="Function body|BodySection">
+		<item key="Collapsed" value="false"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.graphical.Function" value="false"/>
+		</section>
+	</section>
+	<section name="Values range|HistogramDataValuesRangeSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Parameters|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Parameters preview|ParametersPreviewSection">
+		<item key="Collapsed" value="true"/>
+		<section name="CollapsedTypes">
+			<item key="com.anylogic.objectmodel.elements.ActiveObjectClass" value="false"/>
+		</section>
+	</section>
+</section>

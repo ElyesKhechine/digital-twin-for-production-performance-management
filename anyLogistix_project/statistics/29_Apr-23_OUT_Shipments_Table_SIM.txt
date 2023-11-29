@@ -1,0 +1,1 @@
+Statistics;Object;Id;Shipper;Destinations;Vehicle type;Vehicles amount;Departure date;Departure period;Departure day;Amount;unit;Output processing cost;Transportation cost;Input processing cost;Tariff;Total cost;Revenue;Cost unit;

@@ -1,0 +1,1 @@
+Statistics;Object;Shipment Id;Original Shipper;Vehicle Type;Vehicles amount;Previous location;Current location;Next location;Action;Date;Product;Quantity;Unit;

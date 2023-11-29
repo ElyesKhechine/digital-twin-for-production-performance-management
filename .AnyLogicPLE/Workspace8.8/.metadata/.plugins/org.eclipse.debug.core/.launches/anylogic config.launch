@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.anylogic.ms.MS"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="warehouse_conveyor.Simulation 1abf0b0 swing"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MAEP TP N4 - Production de biens Biscuits - Anylogic_BUILD"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=" -Xmx512m --illegal-access=deny -DlanguageId_xjal=en0kzvsb -DflowchartCountersVisible_xjal=true -DbuiltInTileCachePath_xjal=&quot;C:\Program Files\AnyLogic 8.8 Personal Learning Edition\plugins\com.anylogic.gis_8.8.1.202210270952\tiles&quot; -DflowchartPortStateAnimated_xjal=true -DenableWarnings_xjal=true -DenableObject3DLod_xjal=true -DstandaloneBrowserPath_xjal=&quot;C:/Program Files/AnyLogic 8.8 Personal Learning Edition/chromium/chromium-win64/chrome.exe&quot; -DstandaloneBrowserCommandArguments_xjal=&quot;--app=$1&quot; -DanylogicIncomingPort_xjal=&quot;7880&quot; -DbrowserUserDataPath_xjal=&quot;--user-data-dir=C:\Users\Elyes\.AnyLogicPLE\Workspace8.8\chromium\userData&quot; -DuseProxy_xjal=false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="D:\IIA4\S2\MAEP\TP\TP4\MAEP TP N4 Files\Anylogic"/>
+</launchConfiguration>

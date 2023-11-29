@@ -1,0 +1,1179 @@
+
+=========================================================================
+!SESSION: Sat Apr 29 01:16:05 CAT 2023
+Sat Apr 29 01:16:05 CAT 2023: Log file setup
+ALX version: PLE 2.15.3.202209061204
+underEclipse=false
+publicWorkspaceDir=C:\Users\Public\.anyLogistixPLE
+userWorkspaceDir=C:\Users\Elyes\.anyLogistixPLE
+Sat Apr 29 01:16:06 CAT 2023: Start proxy setup
+Sat Apr 29 01:16:06 CAT 2023: End proxy setup
+Sat Apr 29 01:16:06 CAT 2023: Start license check
+Sat Apr 29 01:16:06 CAT 2023: End license check
+Sat Apr 29 01:16:06 CAT 2023: Start create workbench
+Cache initialization started!
+Distances cache initialized
+Routes cache initialized
+DistancesTypes cache initialized
+Tiles cache initialized
+project opening: 23036
+Sat Apr 29 01:16:50 CAT 2023: Start check for updates
+Current ALX version: 2.15.3.202209061204
+Server ALX version: 2.15.3.202209061204
+Startup new version check - skip warning.
+Simulation started: 2023-04-29T01:18:57.623377400
+Simulation finished: 2023-04-29T01:19:00.057171300
+stop
+Stat save: 263
+Save result to ALX: 334
+Preparing Available Inventory 1/132
+Export totals: 5
+Preparing Available Inventory in Product Units 2/132
+Export totals: 1
+Preparing Average Cost per Item 3/132
+Export totals: 2
+Preparing Average Cost per Order 4/132
+Export totals: 1
+Preparing Average Daily Available Inventory 5/132
+Export totals: 0
+Preparing Average Daily Available Inventory in Product Units 6/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory 7/132
+Export totals: 1
+Preparing Average Daily On-hand Inventory in Product Units 8/132
+Export totals: 0
+Preparing Average Number of Vehicles Used 9/132
+Export totals: 0
+Preparing Bullwhip Effect by Product 10/132
+Export totals: 0
+Preparing CO2 by Facility Size 12/132
+Export totals: 2
+Preparing CO2 from Facility Closure 13/132
+Export totals: 0
+Preparing CO2 from Facility Opening 14/132
+Export totals: 0
+Preparing CO2 from Inbound Processing 15/132
+Export totals: 0
+Preparing CO2 from Other Cause 16/132
+Export totals: 0
+Preparing CO2 from Outbound Processing 17/132
+Export totals: 0
+Preparing CO2 from Product Carrying 18/132
+Export totals: 1
+Preparing CO2 from Production 19/132
+Export totals: 0
+Preparing CO2 from Vehicles 20/132
+Export totals: 0
+Preparing Cash 21/132
+Export totals: 0
+Preparing Cash less Interest 22/132
+Export totals: 0
+Preparing Cash less Loan 23/132
+Export totals: 0
+Preparing Cash less Loan with Interest 24/132
+Export totals: 1
+Preparing Customer Tariffs 26/132
+Export totals: 0
+Preparing DC Rating (Online Shop) 28/132
+Export totals: 0
+Preparing Delayed Batches (Yogurt Factory) 29/132
+Export totals: 0
+Preparing Demand (Orders Backlog) 30/132
+Export totals: 0
+Preparing Demand (Products Backlog) 31/132
+Export totals: 1
+Preparing Demand Placed (Dropped Late Orders) by Customer (Online Shop) 32/132
+Export totals: 1
+Preparing Demand Placed (Dropped Orders) by Customer 33/132
+Export totals: 0
+Preparing Demand Placed (Dropped Products) by Customer 34/132
+Export totals: 1
+Preparing Demand Placed (Orders) by Customer 35/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Site 36/132
+Export totals: 1
+Preparing Demand Placed (Products) by Customer 37/132
+Export totals: 0
+Preparing Demand Placed (Products) by Site 38/132
+Export totals: 0
+Preparing Demand Received (Dropped Orders) 39/132
+Export totals: 0
+Preparing Demand Received (Dropped Products) 40/132
+Export totals: 0
+Preparing Demand Received (Orders) 41/132
+Export totals: 0
+Preparing Demand Received (Products) 42/132
+Export totals: 0
+Preparing ELT Service Level by Orders 43/132
+Export totals: 0
+Preparing ELT Service Level by Products 44/132
+Export totals: 0
+Preparing ELT Service Level by Revenue 45/132
+Export totals: 0
+Preparing Facility Cost 48/132
+Export totals: 0
+Preparing Fleet cost 49/132
+Export totals: 1
+Preparing Fulfillment (Late Orders) 50/132
+Export totals: 0
+Preparing Fulfillment (Late Products) 51/132
+Export totals: 0
+Preparing Fulfillment Received (Orders On-time) 52/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) 53/132
+Export totals: 1
+Preparing Fulfillment Received (Orders) by Customer 54/132
+Export totals: 0
+Preparing Fulfillment Received (Products On-time) 55/132
+Export totals: 0
+Preparing Fulfillment Received (Products) 56/132
+Export totals: 1
+Preparing Fulfillment Received (Products) by Customer 57/132
+Export totals: 0
+Preparing Fulfillment Shipped (Orders) 58/132
+Export totals: 0
+Preparing Fulfillment Shipped (Products) 59/132
+Export totals: 0
+Preparing Gates Utilization 62/132
+Export totals: 0
+Preparing Inbound Processing Cost 64/132
+Export totals: 0
+Preparing Initial Site Cost 65/132
+Export totals: 0
+Preparing Interest 66/132
+Export totals: 0
+Preparing Inventory Carrying Cost 67/132
+Export totals: 0
+Preparing Inventory Spend 68/132
+Export totals: 0
+Preparing Lead Time 69/132
+Export totals: 0
+Preparing Loan 70/132
+Export totals: 0
+Preparing Loan with Interest 71/132
+Export totals: 0
+Preparing Max Lead Time 73/132
+Export totals: 0
+Preparing Max Number of Vehicles Used 74/132
+Export totals: 1
+Preparing Mean Lead Time 75/132
+Export totals: 0
+Preparing Negative Feedback (Online Shop) 76/132
+Export totals: 0
+Preparing No Feedback (Online Shop) 77/132
+Export totals: 0
+Preparing On-hand Inventory 78/132
+Export totals: 0
+Preparing Orders Produced 79/132
+Export totals: 0
+Preparing Other Cost 80/132
+Export totals: 0
+Preparing Outbound Processing Cost 81/132
+Export totals: 0
+Preparing Peak Capacity 87/132
+Export totals: 1
+Preparing Positive Feedback (Online Shop) 88/132
+Export totals: 0
+Preparing Production Cost 90/132
+Export totals: 0
+Preparing Production Line Busy Time 91/132
+Export totals: 0
+Preparing Production Line Idle Time 92/132
+Export totals: 0
+Preparing Production Requests (Orders) 93/132
+Export totals: 0
+Preparing Production Requests (Products) 94/132
+Export totals: 0
+Preparing Production Utilization 95/132
+Export totals: 0
+Preparing Products Produced 96/132
+Export totals: 0
+Preparing Products Produced (Units) 97/132
+Export totals: 0
+Preparing Profit 98/132
+Export totals: 1
+Preparing Revenue 100/132
+Export totals: 0
+Preparing Revenue by Customer 101/132
+Export totals: 0
+Preparing Service Level by Orders 105/132
+Export totals: 0
+Preparing Service Level by Products 106/132
+Export totals: 0
+Preparing Service Level by Revenue 107/132
+Export totals: 0
+Preparing Shipped Vehicles 110/132
+Export totals: 0
+Preparing Site Closure Cost 111/132
+Export totals: 1
+Preparing Space Utilization (DC with Storages) 112/132
+Export totals: 0
+Preparing Staff Busy Time (DC with Staff) 113/132
+Export totals: 0
+Preparing Staff Idle Time (DC with Staff) 114/132
+Export totals: 0
+Preparing Staff Utilization (DC with Staff) 115/132
+Export totals: 0
+Preparing Staff Utilization (DC with Storages) 116/132
+Export totals: 1
+Preparing Tariffs 117/132
+Export totals: 0
+Preparing Total CO2 118/132
+Export totals: 2
+Preparing Total Cost 119/132
+Export totals: 0
+Preparing Total Interest Paid 120/132
+Export totals: 0
+Preparing Transportation Cost 121/132
+Export totals: 0
+Preparing Traveled Distance 122/132
+Export totals: 0
+Preparing Utilized Volume (Yogurt Factory) 125/132
+Export totals: 0
+Preparing Vehicle Capacity Utilization 127/132
+Export totals: 0
+Preparing Vehicle Loading Time 128/132
+Export totals: 0
+Preparing Vehicle Unloading Time 129/132
+Export totals: 1
+Preparing Events Table 46/132
+Preparing Product Flows Table 89/132
+Preparing Shipment Schedule Table 108/132
+Preparing Shipments Table 109/132
+Preparing custom tables data: 0
+Export Custom Tables: 1
+Total time: 58
+
+=========================================================================
+!SESSION: Thu May 04 15:25:53 CAT 2023
+Thu May 04 15:25:53 CAT 2023: Log file setup
+ALX version: PLE 2.15.3.202209061204
+underEclipse=false
+publicWorkspaceDir=C:\Users\Public\.anyLogistixPLE
+userWorkspaceDir=C:\Users\Elyes\.anyLogistixPLE
+Thu May 04 15:25:55 CAT 2023: Start proxy setup
+Thu May 04 15:25:55 CAT 2023: End proxy setup
+Thu May 04 15:25:55 CAT 2023: Start license check
+Thu May 04 15:25:55 CAT 2023: End license check
+Thu May 04 15:25:55 CAT 2023: Start create workbench
+Cache initialization started!
+DistancesTypes cache initialized
+Tiles cache initialized
+Distances cache initialized
+Routes cache initialized
+project opening: 4931
+Thu May 04 15:26:12 CAT 2023: Start check for updates
+Current ALX version: 2.15.3.202209061204
+Server ALX version: 2.15.3.202209061204
+Startup new version check - skip warning.
+Simulation started: 2023-05-04T15:30:42.784294400
+Simulation finished: 2023-05-04T15:30:44.952699400
+stop
+Stat save: 360
+Save result to ALX: 504
+Preparing Available Inventory 1/132
+Export totals: 8
+Preparing Available Inventory in Product Units 2/132
+Export totals: 4
+Preparing Average Cost per Item 3/132
+Export totals: 8
+Preparing Average Cost per Order 4/132
+Export totals: 0
+Preparing Average Daily Available Inventory 5/132
+Export totals: 0
+Preparing Average Daily Available Inventory in Product Units 6/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory 7/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory in Product Units 8/132
+Export totals: 0
+Preparing Average Number of Vehicles Used 9/132
+Export totals: 0
+Preparing Bullwhip Effect by Product 10/132
+Export totals: 0
+Preparing CO2 by Facility Size 12/132
+Export totals: 0
+Preparing CO2 from Facility Closure 13/132
+Export totals: 0
+Preparing CO2 from Facility Opening 14/132
+Export totals: 0
+Preparing CO2 from Inbound Processing 15/132
+Export totals: 0
+Preparing CO2 from Other Cause 16/132
+Export totals: 0
+Preparing CO2 from Outbound Processing 17/132
+Export totals: 0
+Preparing CO2 from Product Carrying 18/132
+Export totals: 0
+Preparing CO2 from Production 19/132
+Export totals: 0
+Preparing CO2 from Vehicles 20/132
+Export totals: 0
+Preparing Cash 21/132
+Export totals: 0
+Preparing Cash less Interest 22/132
+Export totals: 0
+Preparing Cash less Loan 23/132
+Export totals: 4
+Preparing Cash less Loan with Interest 24/132
+Export totals: 0
+Preparing Customer Tariffs 26/132
+Export totals: 0
+Preparing DC Rating (Online Shop) 28/132
+Export totals: 0
+Preparing Delayed Batches (Yogurt Factory) 29/132
+Export totals: 0
+Preparing Demand (Orders Backlog) 30/132
+Export totals: 0
+Preparing Demand (Products Backlog) 31/132
+Export totals: 0
+Preparing Demand Placed (Dropped Late Orders) by Customer (Online Shop) 32/132
+Export totals: 0
+Preparing Demand Placed (Dropped Orders) by Customer 33/132
+Export totals: 0
+Preparing Demand Placed (Dropped Products) by Customer 34/132
+Export totals: 4
+Preparing Demand Placed (Orders) by Customer 35/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Site 36/132
+Export totals: 0
+Preparing Demand Placed (Products) by Customer 37/132
+Export totals: 0
+Preparing Demand Placed (Products) by Site 38/132
+Export totals: 0
+Preparing Demand Received (Dropped Orders) 39/132
+Export totals: 0
+Preparing Demand Received (Dropped Products) 40/132
+Export totals: 0
+Preparing Demand Received (Orders) 41/132
+Export totals: 0
+Preparing Demand Received (Products) 42/132
+Export totals: 0
+Preparing ELT Service Level by Orders 43/132
+Export totals: 0
+Preparing ELT Service Level by Products 44/132
+Export totals: 0
+Preparing ELT Service Level by Revenue 45/132
+Export totals: 0
+Preparing Facility Cost 48/132
+Export totals: 0
+Preparing Fleet cost 49/132
+Export totals: 0
+Preparing Fulfillment (Late Orders) 50/132
+Export totals: 0
+Preparing Fulfillment (Late Products) 51/132
+Export totals: 0
+Preparing Fulfillment Received (Orders On-time) 52/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) 53/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) by Customer 54/132
+Export totals: 4
+Preparing Fulfillment Received (Products On-time) 55/132
+Export totals: 0
+Preparing Fulfillment Received (Products) 56/132
+Export totals: 0
+Preparing Fulfillment Received (Products) by Customer 57/132
+Export totals: 0
+Preparing Fulfillment Shipped (Orders) 58/132
+Export totals: 0
+Preparing Fulfillment Shipped (Products) 59/132
+Export totals: 0
+Preparing Gates Utilization 62/132
+Export totals: 0
+Preparing Inbound Processing Cost 64/132
+Export totals: 0
+Preparing Initial Site Cost 65/132
+Export totals: 4
+Preparing Interest 66/132
+Export totals: 0
+Preparing Inventory Carrying Cost 67/132
+Export totals: 0
+Preparing Inventory Spend 68/132
+Export totals: 0
+Preparing Lead Time 69/132
+Export totals: 0
+Preparing Loan 70/132
+Export totals: 0
+Preparing Loan with Interest 71/132
+Export totals: 0
+Preparing Max Lead Time 73/132
+Export totals: 0
+Preparing Max Number of Vehicles Used 74/132
+Export totals: 4
+Preparing Mean Lead Time 75/132
+Export totals: 0
+Preparing Negative Feedback (Online Shop) 76/132
+Export totals: 0
+Preparing No Feedback (Online Shop) 77/132
+Export totals: 0
+Preparing On-hand Inventory 78/132
+Export totals: 0
+Preparing Orders Produced 79/132
+Export totals: 0
+Preparing Other Cost 80/132
+Export totals: 0
+Preparing Outbound Processing Cost 81/132
+Export totals: 0
+Preparing Peak Capacity 87/132
+Export totals: 0
+Preparing Positive Feedback (Online Shop) 88/132
+Export totals: 0
+Preparing Production Cost 90/132
+Export totals: 0
+Preparing Production Line Busy Time 91/132
+Export totals: 0
+Preparing Production Line Idle Time 92/132
+Export totals: 0
+Preparing Production Requests (Orders) 93/132
+Export totals: 0
+Preparing Production Requests (Products) 94/132
+Export totals: 0
+Preparing Production Utilization 95/132
+Export totals: 0
+Preparing Products Produced 96/132
+Export totals: 0
+Preparing Products Produced (Units) 97/132
+Export totals: 0
+Preparing Profit 98/132
+Export totals: 0
+Preparing Revenue 100/132
+Export totals: 0
+Preparing Revenue by Customer 101/132
+Export totals: 0
+Preparing Service Level by Orders 105/132
+Export totals: 0
+Preparing Service Level by Products 106/132
+Export totals: 0
+Preparing Service Level by Revenue 107/132
+Export totals: 4
+Preparing Shipped Vehicles 110/132
+Export totals: 0
+Preparing Site Closure Cost 111/132
+Export totals: 0
+Preparing Space Utilization (DC with Storages) 112/132
+Export totals: 0
+Preparing Staff Busy Time (DC with Staff) 113/132
+Export totals: 0
+Preparing Staff Idle Time (DC with Staff) 114/132
+Export totals: 0
+Preparing Staff Utilization (DC with Staff) 115/132
+Export totals: 0
+Preparing Staff Utilization (DC with Storages) 116/132
+Export totals: 0
+Preparing Tariffs 117/132
+Export totals: 0
+Preparing Total CO2 118/132
+Export totals: 4
+Preparing Total Cost 119/132
+Export totals: 4
+Preparing Total Interest Paid 120/132
+Export totals: 0
+Preparing Transportation Cost 121/132
+Export totals: 0
+Preparing Traveled Distance 122/132
+Export totals: 0
+Preparing Utilized Volume (Yogurt Factory) 125/132
+Export totals: 0
+Preparing Vehicle Capacity Utilization 127/132
+Export totals: 0
+Preparing Vehicle Loading Time 128/132
+Export totals: 0
+Preparing Vehicle Unloading Time 129/132
+Export totals: 0
+Preparing Events Table 46/132
+Preparing Product Flows Table 89/132
+Preparing Shipment Schedule Table 108/132
+Preparing Shipments Table 109/132
+Preparing custom tables data: 0
+Export Custom Tables: 4
+Total time: 99
+Simulation started: 2023-05-04T15:30:59.127401400
+Simulation finished: 2023-05-04T15:31:00.562230300
+stop
+Stat save: 301
+Save result to ALX: 445
+Preparing Available Inventory 1/132
+Export totals: 4
+Preparing Available Inventory in Product Units 2/132
+Export totals: 2
+Preparing Average Cost per Item 3/132
+Export totals: 0
+Preparing Average Cost per Order 4/132
+Export totals: 0
+Preparing Average Daily Available Inventory 5/132
+Export totals: 0
+Preparing Average Daily Available Inventory in Product Units 6/132
+Export totals: 4
+Preparing Average Daily On-hand Inventory 7/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory in Product Units 8/132
+Export totals: 0
+Preparing Average Number of Vehicles Used 9/132
+Export totals: 0
+Preparing Bullwhip Effect by Product 10/132
+Export totals: 0
+Preparing CO2 by Facility Size 12/132
+Export totals: 0
+Preparing CO2 from Facility Closure 13/132
+Export totals: 4
+Preparing CO2 from Facility Opening 14/132
+Export totals: 0
+Preparing CO2 from Inbound Processing 15/132
+Export totals: 0
+Preparing CO2 from Other Cause 16/132
+Export totals: 0
+Preparing CO2 from Outbound Processing 17/132
+Export totals: 0
+Preparing CO2 from Product Carrying 18/132
+Export totals: 4
+Preparing CO2 from Production 19/132
+Export totals: 0
+Preparing CO2 from Vehicles 20/132
+Export totals: 0
+Preparing Cash 21/132
+Export totals: 0
+Preparing Cash less Interest 22/132
+Export totals: 0
+Preparing Cash less Loan 23/132
+Export totals: 0
+Preparing Cash less Loan with Interest 24/132
+Export totals: 0
+Preparing Customer Tariffs 26/132
+Export totals: 0
+Preparing DC Rating (Online Shop) 28/132
+Export totals: 0
+Preparing Delayed Batches (Yogurt Factory) 29/132
+Export totals: 0
+Preparing Demand (Orders Backlog) 30/132
+Export totals: 0
+Preparing Demand (Products Backlog) 31/132
+Export totals: 0
+Preparing Demand Placed (Dropped Late Orders) by Customer (Online Shop) 32/132
+Export totals: 0
+Preparing Demand Placed (Dropped Orders) by Customer 33/132
+Export totals: 0
+Preparing Demand Placed (Dropped Products) by Customer 34/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Customer 35/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Site 36/132
+Export totals: 0
+Preparing Demand Placed (Products) by Customer 37/132
+Export totals: 0
+Preparing Demand Placed (Products) by Site 38/132
+Export totals: 0
+Preparing Demand Received (Dropped Orders) 39/132
+Export totals: 0
+Preparing Demand Received (Dropped Products) 40/132
+Export totals: 0
+Preparing Demand Received (Orders) 41/132
+Export totals: 0
+Preparing Demand Received (Products) 42/132
+Export totals: 0
+Preparing ELT Service Level by Orders 43/132
+Export totals: 0
+Preparing ELT Service Level by Products 44/132
+Export totals: 0
+Preparing ELT Service Level by Revenue 45/132
+Export totals: 0
+Preparing Facility Cost 48/132
+Export totals: 0
+Preparing Fleet cost 49/132
+Export totals: 0
+Preparing Fulfillment (Late Orders) 50/132
+Export totals: 0
+Preparing Fulfillment (Late Products) 51/132
+Export totals: 0
+Preparing Fulfillment Received (Orders On-time) 52/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) 53/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) by Customer 54/132
+Export totals: 0
+Preparing Fulfillment Received (Products On-time) 55/132
+Export totals: 0
+Preparing Fulfillment Received (Products) 56/132
+Export totals: 0
+Preparing Fulfillment Received (Products) by Customer 57/132
+Export totals: 0
+Preparing Fulfillment Shipped (Orders) 58/132
+Export totals: 0
+Preparing Fulfillment Shipped (Products) 59/132
+Export totals: 0
+Preparing Gates Utilization 62/132
+Export totals: 0
+Preparing Inbound Processing Cost 64/132
+Export totals: 0
+Preparing Initial Site Cost 65/132
+Export totals: 0
+Preparing Interest 66/132
+Export totals: 0
+Preparing Inventory Carrying Cost 67/132
+Export totals: 0
+Preparing Inventory Spend 68/132
+Export totals: 0
+Preparing Lead Time 69/132
+Export totals: 0
+Preparing Loan 70/132
+Export totals: 0
+Preparing Loan with Interest 71/132
+Export totals: 0
+Preparing Max Lead Time 73/132
+Export totals: 0
+Preparing Max Number of Vehicles Used 74/132
+Export totals: 0
+Preparing Mean Lead Time 75/132
+Export totals: 0
+Preparing Negative Feedback (Online Shop) 76/132
+Export totals: 0
+Preparing No Feedback (Online Shop) 77/132
+Export totals: 0
+Preparing On-hand Inventory 78/132
+Export totals: 0
+Preparing Orders Produced 79/132
+Export totals: 0
+Preparing Other Cost 80/132
+Export totals: 0
+Preparing Outbound Processing Cost 81/132
+Export totals: 0
+Preparing Peak Capacity 87/132
+Export totals: 0
+Preparing Positive Feedback (Online Shop) 88/132
+Export totals: 0
+Preparing Production Cost 90/132
+Export totals: 0
+Preparing Production Line Busy Time 91/132
+Export totals: 0
+Preparing Production Line Idle Time 92/132
+Export totals: 0
+Preparing Production Requests (Orders) 93/132
+Export totals: 0
+Preparing Production Requests (Products) 94/132
+Export totals: 0
+Preparing Production Utilization 95/132
+Export totals: 0
+Preparing Products Produced 96/132
+Export totals: 0
+Preparing Products Produced (Units) 97/132
+Export totals: 0
+Preparing Profit 98/132
+Export totals: 4
+Preparing Revenue 100/132
+Export totals: 0
+Preparing Revenue by Customer 101/132
+Export totals: 0
+Preparing Service Level by Orders 105/132
+Export totals: 0
+Preparing Service Level by Products 106/132
+Export totals: 0
+Preparing Service Level by Revenue 107/132
+Export totals: 4
+Preparing Shipped Vehicles 110/132
+Export totals: 0
+Preparing Site Closure Cost 111/132
+Export totals: 0
+Preparing Space Utilization (DC with Storages) 112/132
+Export totals: 0
+Preparing Staff Busy Time (DC with Staff) 113/132
+Export totals: 0
+Preparing Staff Idle Time (DC with Staff) 114/132
+Export totals: 0
+Preparing Staff Utilization (DC with Staff) 115/132
+Export totals: 0
+Preparing Staff Utilization (DC with Storages) 116/132
+Export totals: 0
+Preparing Tariffs 117/132
+Export totals: 0
+Preparing Total CO2 118/132
+Export totals: 4
+Preparing Total Cost 119/132
+Export totals: 0
+Preparing Total Interest Paid 120/132
+Export totals: 0
+Preparing Transportation Cost 121/132
+Export totals: 0
+Preparing Traveled Distance 122/132
+Export totals: 0
+Preparing Utilized Volume (Yogurt Factory) 125/132
+Export totals: 0
+Preparing Vehicle Capacity Utilization 127/132
+Export totals: 0
+Preparing Vehicle Loading Time 128/132
+Export totals: 4
+Preparing Vehicle Unloading Time 129/132
+Export totals: 0
+Preparing Events Table 46/132
+Preparing Product Flows Table 89/132
+Preparing Shipment Schedule Table 108/132
+Preparing Shipments Table 109/132
+Preparing custom tables data: 0
+Export Custom Tables: 3
+Total time: 66
+Simulation started: 2023-05-04T15:47:15.469842100
+Simulation finished: 2023-05-04T15:47:17.383260100
+stop
+Stat save: 301
+Save result to ALX: 469
+Preparing Available Inventory 1/132
+Export totals: 0
+Preparing Available Inventory in Product Units 2/132
+Export totals: 0
+Preparing Average Cost per Item 3/132
+Export totals: 0
+Preparing Average Cost per Order 4/132
+Export totals: 0
+Preparing Average Daily Available Inventory 5/132
+Export totals: 0
+Preparing Average Daily Available Inventory in Product Units 6/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory 7/132
+Export totals: 0
+Preparing Average Daily On-hand Inventory in Product Units 8/132
+Export totals: 0
+Preparing Average Number of Vehicles Used 9/132
+Export totals: 0
+Preparing Bullwhip Effect by Product 10/132
+Export totals: 0
+Preparing CO2 by Facility Size 12/132
+Export totals: 0
+Preparing CO2 from Facility Closure 13/132
+Export totals: 0
+Preparing CO2 from Facility Opening 14/132
+Export totals: 0
+Preparing CO2 from Inbound Processing 15/132
+Export totals: 0
+Preparing CO2 from Other Cause 16/132
+Export totals: 0
+Preparing CO2 from Outbound Processing 17/132
+Export totals: 0
+Preparing CO2 from Product Carrying 18/132
+Export totals: 0
+Preparing CO2 from Production 19/132
+Export totals: 0
+Preparing CO2 from Vehicles 20/132
+Export totals: 0
+Preparing Cash 21/132
+Export totals: 0
+Preparing Cash less Interest 22/132
+Export totals: 0
+Preparing Cash less Loan 23/132
+Export totals: 0
+Preparing Cash less Loan with Interest 24/132
+Export totals: 0
+Preparing Customer Tariffs 26/132
+Export totals: 0
+Preparing DC Rating (Online Shop) 28/132
+Export totals: 0
+Preparing Delayed Batches (Yogurt Factory) 29/132
+Export totals: 0
+Preparing Demand (Orders Backlog) 30/132
+Export totals: 4
+Preparing Demand (Products Backlog) 31/132
+Export totals: 0
+Preparing Demand Placed (Dropped Late Orders) by Customer (Online Shop) 32/132
+Export totals: 0
+Preparing Demand Placed (Dropped Orders) by Customer 33/132
+Export totals: 0
+Preparing Demand Placed (Dropped Products) by Customer 34/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Customer 35/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Site 36/132
+Export totals: 0
+Preparing Demand Placed (Products) by Customer 37/132
+Export totals: 0
+Preparing Demand Placed (Products) by Site 38/132
+Export totals: 0
+Preparing Demand Received (Dropped Orders) 39/132
+Export totals: 0
+Preparing Demand Received (Dropped Products) 40/132
+Export totals: 0
+Preparing Demand Received (Orders) 41/132
+Export totals: 0
+Preparing Demand Received (Products) 42/132
+Export totals: 0
+Preparing ELT Service Level by Orders 43/132
+Export totals: 0
+Preparing ELT Service Level by Products 44/132
+Export totals: 0
+Preparing ELT Service Level by Revenue 45/132
+Export totals: 0
+Preparing Facility Cost 48/132
+Export totals: 0
+Preparing Fleet cost 49/132
+Export totals: 0
+Preparing Fulfillment (Late Orders) 50/132
+Export totals: 0
+Preparing Fulfillment (Late Products) 51/132
+Export totals: 0
+Preparing Fulfillment Received (Orders On-time) 52/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) 53/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) by Customer 54/132
+Export totals: 0
+Preparing Fulfillment Received (Products On-time) 55/132
+Export totals: 0
+Preparing Fulfillment Received (Products) 56/132
+Export totals: 0
+Preparing Fulfillment Received (Products) by Customer 57/132
+Export totals: 4
+Preparing Fulfillment Shipped (Orders) 58/132
+Export totals: 0
+Preparing Fulfillment Shipped (Products) 59/132
+Export totals: 0
+Preparing Gates Utilization 62/132
+Export totals: 0
+Preparing Inbound Processing Cost 64/132
+Export totals: 0
+Preparing Initial Site Cost 65/132
+Export totals: 0
+Preparing Interest 66/132
+Export totals: 0
+Preparing Inventory Carrying Cost 67/132
+Export totals: 0
+Preparing Inventory Spend 68/132
+Export totals: 0
+Preparing Lead Time 69/132
+Export totals: 0
+Preparing Loan 70/132
+Export totals: 0
+Preparing Loan with Interest 71/132
+Export totals: 4
+Preparing Max Lead Time 73/132
+Export totals: 0
+Preparing Max Number of Vehicles Used 74/132
+Export totals: 0
+Preparing Mean Lead Time 75/132
+Export totals: 0
+Preparing Negative Feedback (Online Shop) 76/132
+Export totals: 0
+Preparing No Feedback (Online Shop) 77/132
+Export totals: 0
+Preparing On-hand Inventory 78/132
+Export totals: 0
+Preparing Orders Produced 79/132
+Export totals: 0
+Preparing Other Cost 80/132
+Export totals: 0
+Preparing Outbound Processing Cost 81/132
+Export totals: 0
+Preparing Peak Capacity 87/132
+Export totals: 0
+Preparing Positive Feedback (Online Shop) 88/132
+Export totals: 0
+Preparing Production Cost 90/132
+Export totals: 0
+Preparing Production Line Busy Time 91/132
+Export totals: 0
+Preparing Production Line Idle Time 92/132
+Export totals: 0
+Preparing Production Requests (Orders) 93/132
+Export totals: 0
+Preparing Production Requests (Products) 94/132
+Export totals: 0
+Preparing Production Utilization 95/132
+Export totals: 0
+Preparing Products Produced 96/132
+Export totals: 0
+Preparing Products Produced (Units) 97/132
+Export totals: 0
+Preparing Profit 98/132
+Export totals: 0
+Preparing Revenue 100/132
+Export totals: 0
+Preparing Revenue by Customer 101/132
+Export totals: 0
+Preparing Service Level by Orders 105/132
+Export totals: 0
+Preparing Service Level by Products 106/132
+Export totals: 0
+Preparing Service Level by Revenue 107/132
+Export totals: 0
+Preparing Shipped Vehicles 110/132
+Export totals: 0
+Preparing Site Closure Cost 111/132
+Export totals: 0
+Preparing Space Utilization (DC with Storages) 112/132
+Export totals: 4
+Preparing Staff Busy Time (DC with Staff) 113/132
+Export totals: 0
+Preparing Staff Idle Time (DC with Staff) 114/132
+Export totals: 0
+Preparing Staff Utilization (DC with Staff) 115/132
+Export totals: 0
+Preparing Staff Utilization (DC with Storages) 116/132
+Export totals: 0
+Preparing Tariffs 117/132
+Export totals: 0
+Preparing Total CO2 118/132
+Export totals: 4
+Preparing Total Cost 119/132
+Export totals: 0
+Preparing Total Interest Paid 120/132
+Export totals: 0
+Preparing Transportation Cost 121/132
+Export totals: 0
+Preparing Traveled Distance 122/132
+Export totals: 0
+Preparing Utilized Volume (Yogurt Factory) 125/132
+Export totals: 0
+Preparing Vehicle Capacity Utilization 127/132
+Export totals: 0
+Preparing Vehicle Loading Time 128/132
+Export totals: 0
+Preparing Vehicle Unloading Time 129/132
+Export totals: 0
+Preparing Events Table 46/132
+Preparing Product Flows Table 89/132
+Preparing Shipment Schedule Table 108/132
+Preparing Shipments Table 109/132
+Preparing custom tables data: 0
+Export Custom Tables: 4
+Total time: 48
+
+=========================================================================
+!SESSION: Thu May 04 15:52:26 CAT 2023
+Thu May 04 15:52:26 CAT 2023: Log file setup
+ALX version: PLE 2.15.3.202209061204
+underEclipse=false
+publicWorkspaceDir=C:\Users\Public\.anyLogistixPLE
+userWorkspaceDir=C:\Users\Elyes\.anyLogistixPLE
+Thu May 04 15:52:27 CAT 2023: Start proxy setup
+Thu May 04 15:52:27 CAT 2023: End proxy setup
+Thu May 04 15:52:27 CAT 2023: Start license check
+Thu May 04 15:52:27 CAT 2023: End license check
+Thu May 04 15:52:27 CAT 2023: Start create workbench
+Cache initialization started!
+Distances cache initialized
+Tiles cache initialized
+Routes cache initialized
+DistancesTypes cache initialized
+project opening: 3176
+Thu May 04 15:52:38 CAT 2023: Start check for updates
+Current ALX version: 2.15.3.202209061204
+Server ALX version: 2.15.3.202209061204
+Startup new version check - skip warning.
+Simulation started: 2023-05-04T15:52:54.085528
+Simulation finished: 2023-05-04T15:52:56.674911800
+stop
+Stat save: 515
+Save result to ALX: 691
+Preparing Available Inventory 1/132
+Export totals: 19
+Preparing Available Inventory in Product Units 2/132
+Export totals: 4
+Preparing Average Cost per Item 3/132
+Export totals: 5
+Preparing Average Cost per Order 4/132
+Export totals: 1
+Preparing Average Daily Available Inventory 5/132
+Export totals: 2
+Preparing Average Daily Available Inventory in Product Units 6/132
+Export totals: 3
+Preparing Average Daily On-hand Inventory 7/132
+Export totals: 1
+Preparing Average Daily On-hand Inventory in Product Units 8/132
+Export totals: 2
+Preparing Average Number of Vehicles Used 9/132
+Export totals: 0
+Preparing Bullwhip Effect by Product 10/132
+Export totals: 1
+Preparing CO2 by Facility Size 12/132
+Export totals: 1
+Preparing CO2 from Facility Closure 13/132
+Export totals: 1
+Preparing CO2 from Facility Opening 14/132
+Export totals: 1
+Preparing CO2 from Inbound Processing 15/132
+Export totals: 0
+Preparing CO2 from Other Cause 16/132
+Export totals: 4
+Preparing CO2 from Outbound Processing 17/132
+Export totals: 0
+Preparing CO2 from Product Carrying 18/132
+Export totals: 2
+Preparing CO2 from Production 19/132
+Export totals: 0
+Preparing CO2 from Vehicles 20/132
+Export totals: 0
+Preparing Cash 21/132
+Export totals: 0
+Preparing Cash less Interest 22/132
+Export totals: 0
+Preparing Cash less Loan 23/132
+Export totals: 0
+Preparing Cash less Loan with Interest 24/132
+Export totals: 0
+Preparing Customer Tariffs 26/132
+Export totals: 0
+Preparing DC Rating (Online Shop) 28/132
+Export totals: 0
+Preparing Delayed Batches (Yogurt Factory) 29/132
+Export totals: 0
+Preparing Demand (Orders Backlog) 30/132
+Export totals: 0
+Preparing Demand (Products Backlog) 31/132
+Export totals: 1
+Preparing Demand Placed (Dropped Late Orders) by Customer (Online Shop) 32/132
+Export totals: 0
+Preparing Demand Placed (Dropped Orders) by Customer 33/132
+Export totals: 1
+Preparing Demand Placed (Dropped Products) by Customer 34/132
+Export totals: 1
+Preparing Demand Placed (Orders) by Customer 35/132
+Export totals: 0
+Preparing Demand Placed (Orders) by Site 36/132
+Export totals: 1
+Preparing Demand Placed (Products) by Customer 37/132
+Export totals: 0
+Preparing Demand Placed (Products) by Site 38/132
+Export totals: 1
+Preparing Demand Received (Dropped Orders) 39/132
+Export totals: 0
+Preparing Demand Received (Dropped Products) 40/132
+Export totals: 0
+Preparing Demand Received (Orders) 41/132
+Export totals: 1
+Preparing Demand Received (Products) 42/132
+Export totals: 0
+Preparing ELT Service Level by Orders 43/132
+Export totals: 0
+Preparing ELT Service Level by Products 44/132
+Export totals: 1
+Preparing ELT Service Level by Revenue 45/132
+Export totals: 0
+Preparing Facility Cost 48/132
+Export totals: 1
+Preparing Fleet cost 49/132
+Export totals: 0
+Preparing Fulfillment (Late Orders) 50/132
+Export totals: 0
+Preparing Fulfillment (Late Products) 51/132
+Export totals: 0
+Preparing Fulfillment Received (Orders On-time) 52/132
+Export totals: 0
+Preparing Fulfillment Received (Orders) 53/132
+Export totals: 1
+Preparing Fulfillment Received (Orders) by Customer 54/132
+Export totals: 0
+Preparing Fulfillment Received (Products On-time) 55/132
+Export totals: 0
+Preparing Fulfillment Received (Products) 56/132
+Export totals: 0
+Preparing Fulfillment Received (Products) by Customer 57/132
+Export totals: 0
+Preparing Fulfillment Shipped (Orders) 58/132
+Export totals: 0
+Preparing Fulfillment Shipped (Products) 59/132
+Export totals: 0
+Preparing Gates Utilization 62/132
+Export totals: 0
+Preparing Inbound Processing Cost 64/132
+Export totals: 0
+Preparing Initial Site Cost 65/132
+Export totals: 0
+Preparing Interest 66/132
+Export totals: 0
+Preparing Inventory Carrying Cost 67/132
+Export totals: 0
+Preparing Inventory Spend 68/132
+Export totals: 0
+Preparing Lead Time 69/132
+Export totals: 0
+Preparing Loan 70/132
+Export totals: 0
+Preparing Loan with Interest 71/132
+Export totals: 0
+Preparing Max Lead Time 73/132
+Export totals: 0
+Preparing Max Number of Vehicles Used 74/132
+Export totals: 0
+Preparing Mean Lead Time 75/132
+Export totals: 0
+Preparing Negative Feedback (Online Shop) 76/132
+Export totals: 1
+Preparing No Feedback (Online Shop) 77/132
+Export totals: 0
+Preparing On-hand Inventory 78/132
+Export totals: 0
+Preparing Orders Produced 79/132
+Export totals: 0
+Preparing Other Cost 80/132
+Export totals: 0
+Preparing Outbound Processing Cost 81/132
+Export totals: 0
+Preparing Peak Capacity 87/132
+Export totals: 0
+Preparing Positive Feedback (Online Shop) 88/132
+Export totals: 0
+Preparing Production Cost 90/132
+Export totals: 0
+Preparing Production Line Busy Time 91/132
+Export totals: 0
+Preparing Production Line Idle Time 92/132
+Export totals: 0
+Preparing Production Requests (Orders) 93/132
+Export totals: 1
+Preparing Production Requests (Products) 94/132
+Export totals: 0
+Preparing Production Utilization 95/132
+Export totals: 0
+Preparing Products Produced 96/132
+Export totals: 0
+Preparing Products Produced (Units) 97/132
+Export totals: 0
+Preparing Profit 98/132
+Export totals: 1
+Preparing Revenue 100/132
+Export totals: 1
+Preparing Revenue by Customer 101/132
+Export totals: 0
+Preparing Service Level by Orders 105/132
+Export totals: 1
+Preparing Service Level by Products 106/132
+Export totals: 0
+Preparing Service Level by Revenue 107/132
+Export totals: 1
+Preparing Shipped Vehicles 110/132
+Export totals: 0
+Preparing Site Closure Cost 111/132
+Export totals: 1
+Preparing Space Utilization (DC with Storages) 112/132
+Export totals: 0
+Preparing Staff Busy Time (DC with Staff) 113/132
+Export totals: 0
+Preparing Staff Idle Time (DC with Staff) 114/132
+Export totals: 0
+Preparing Staff Utilization (DC with Staff) 115/132
+Export totals: 0
+Preparing Staff Utilization (DC with Storages) 116/132
+Export totals: 0
+Preparing Tariffs 117/132
+Export totals: 0
+Preparing Total CO2 118/132
+Export totals: 5
+Preparing Total Cost 119/132
+Export totals: 0
+Preparing Total Interest Paid 120/132
+Export totals: 0
+Preparing Transportation Cost 121/132
+Export totals: 0
+Preparing Traveled Distance 122/132
+Export totals: 0
+Preparing Utilized Volume (Yogurt Factory) 125/132
+Export totals: 0
+Preparing Vehicle Capacity Utilization 127/132
+Export totals: 0
+Preparing Vehicle Loading Time 128/132
+Export totals: 0
+Preparing Vehicle Unloading Time 129/132
+Export totals: 0
+Preparing Events Table 46/132
+Preparing Product Flows Table 89/132
+Preparing Shipment Schedule Table 108/132
+Preparing Shipments Table 109/132
+Preparing custom tables data: 2
+Export Custom Tables: 1
+Total time: 125
