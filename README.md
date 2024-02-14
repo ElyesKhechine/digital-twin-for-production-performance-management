@@ -1,4 +1,4 @@
-# Digital Twin Framework for Biscuit Production and Supply Chain Management
+# Supply Chain Optimization and Digital Twin Development for Biscuit Production 
 
 ### INSAT IIA4
 
@@ -18,7 +18,7 @@ For detailed insights into methodologies, findings, and outcomes, please refer t
 
 ## Technical Details
 
-- **Production Line Optimization**: Engineered a production line utilizing AnyLogic with three key workstations for dough preparation, baking, and topping operations, ensuring consistent product quality.
+- **Production Line Modeling**: Engineered a production line utilizing AnyLogic with three key workstations for dough preparation, baking, and topping operations, ensuring consistent product quality.
 - **Streamlined Workflow**: Implemented a streamlined production workflow incorporating reception, rerouting, production, storage, and distribution of finished products, accounting for real-world time delays and scenarios.
 - **Material Handling Optimization**: Enhanced material handling processes through the deployment of conveyors and carts, reducing transfer times by 20%.
 - **Order Cycle Optimization**: Optimized the complete order cycle, achieving rapid order processing times and timely order fulfillment with an average order processing time of 11 minutes.
