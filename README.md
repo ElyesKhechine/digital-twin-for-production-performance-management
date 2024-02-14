@@ -1,4 +1,4 @@
-# Supply Chain Optimization and Digital Twin Development for Biscuit Production 
+# Digital Twin for Biscuit Production and Supply Chain Optimization 
 
 ### INSAT IIA4
 
