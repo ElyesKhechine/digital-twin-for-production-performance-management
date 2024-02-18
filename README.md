@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project delved into the creation of a digital twin framework for optimizing biscuit production and supply chain management. Leveraging AnyLogic and anyLogistix simulators, the project aims to provide a comprehensive solution for a production line, optimization of material handling processes, streamlining of order cycles, and modeling of supply chain dynamics for biscuit production.
+This project delved into the creation of a digital twin framework for optimizing biscuit production and supply chain management. Leveraging AnyLogic and anyLogistix simulators, the project aims to provide a comprehensive solution for a production line, optimizing material handling processes, streamlining order cycles, and modeling supply chain dynamics for biscuit production.
 
 ## Project Scope
 
-Conducted from February 8, 2023, to May 4, 2023, during the 4th year of Industrial Computing and Automation at INSAT, this project served as a semester-long endeavor to validate the principles of "Modeling and Evaluation Performance" subject.
+Conducted from February 8, 2023, to May 4, 2023, during the 4th year of Industrial Computing and Automation at INSAT, this project served as a semester-long endeavor to validate the principles of the "Modeling and Evaluation Performance" subject.
 
 ## Project Report
 
@@ -18,7 +18,7 @@ For detailed insights into methodologies, findings, and outcomes, please refer t
 
 ## Technical Details
 
-- **Production Line Modeling**: Engineered a production line utilizing AnyLogic with three key workstations for dough preparation, baking, and topping operations, ensuring consistent product quality.
+- **Production Line Modeling**: Engineered a production line utilizing AnyLogic with 3 key workstations for dough preparation, baking, and topping operations, ensuring consistent product quality.
 - **Streamlined Workflow**: Implemented a streamlined production workflow incorporating reception, rerouting, production, storage, and distribution of finished products, accounting for real-world time delays and scenarios.
 - **Material Handling Optimization**: Enhanced material handling processes through the deployment of conveyors and carts, reducing transfer times by 20%.
 - **Order Cycle Optimization**: Optimized the complete order cycle, achieving rapid order processing times and timely order fulfillment with an average order processing time of 11 minutes.
